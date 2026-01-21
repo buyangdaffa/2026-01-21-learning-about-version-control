@@ -1,3 +1,3 @@
 # Learning about Version Control
 
-**Author:** Buyang Daffa
+**Author:** Muhammad Fajrin Buyang Daffa
